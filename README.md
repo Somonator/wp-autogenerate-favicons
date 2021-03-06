@@ -9,5 +9,5 @@ require 'autogenerate_favicons.php';
 
 new autogenerate_favicons($field_name, $post_id);
 ```
-$field_name - the field name
-$post_id - the post ID where the value is saved
+- $field_name - the field name
+- $post_id - the post ID where the value is saved
